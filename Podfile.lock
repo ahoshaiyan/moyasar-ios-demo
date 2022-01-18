@@ -1,0 +1,21 @@
+PODS:
+  - MoyasarSdk (0.1.4)
+
+DEPENDENCIES:
+  - MoyasarSdk (from `https://github.com/moyasar/moyasar-ios-pod.git`)
+
+EXTERNAL SOURCES:
+  MoyasarSdk:
+    :git: https://github.com/moyasar/moyasar-ios-pod.git
+
+CHECKOUT OPTIONS:
+  MoyasarSdk:
+    :commit: 5d8786bf3df1cb36950ebd9e57fb73fa4ea81b00
+    :git: https://github.com/moyasar/moyasar-ios-pod.git
+
+SPEC CHECKSUMS:
+  MoyasarSdk: 549e1b51839cd466ab316e32611222ec714c2437
+
+PODFILE CHECKSUM: 25fd6ec9bf72213c58b3ebdbb01524824e228554
+
+COCOAPODS: 1.11.2
